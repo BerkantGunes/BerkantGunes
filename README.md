@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=berkantgunes" alt="berkantgunes" /></a> </p>
 
-- 🔭 I’m currently working on **python projects**
+- 🔭 I’m currently working on **web-based projects**
 
-- 🌱 I’m currently learning **python, software expert courses**
+- 🌱 I’m currently learning **C#, node.js, javascript, react**
 
 - 👯 I’m looking to collaborate on **web-based projects**
 
