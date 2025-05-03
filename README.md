@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkantgunes&label=Profile%20views&color=0e75b6&style=flat" alt="berkantgunes" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=berkantgunes"&theme=tokyonight alt="berkantgunes" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=berkantgunes"& alt="berkantgunes" /></a> </p>
 
 - 🔭 I’m currently working on **C# projects**
 
