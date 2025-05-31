@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Berkant Gunes</h1>
 <h3 align="center">A passionate Fullstack developer from Turkey</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=berkantgunes&theme=onedark)](https://github.com/BerkantGunes/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=berkantgunes&theme=dracula)](https://github.com/BerkantGunes/github-profile-trophy)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=berkantgunes"& alt="berkantgunes" /></a> </p>
 
 - 🔭 I’m currently working on **C# projects**
