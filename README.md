@@ -34,4 +34,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=berkantgunes&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="berkantgunes" /></p>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkantgunes)](https://github.com/BerkantGunes/github-readme-stats)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berkantgunes&show_icons=true&theme=tokyonight&locale=en" alt="berkantgunes" /></p>
+
