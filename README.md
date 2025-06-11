@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/berkantgunes/"><img src="https://github-profile-trophy.vercel.app/?username=berkantgunes" alt="berkantgunes" /></a> </p>
 
-- 🔭 I’m currently working on **ASP.NET Projects**
+- 🔭 I’m currently working on **WEB Projects**
 
 - 🌱 I’m currently learning **ASP.NET, JavaScript**
 
