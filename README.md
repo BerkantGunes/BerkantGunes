@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=berkantgunes" alt="berkantgunes" /></a> </p>
 
-- 🔭 I’m currently working on **JavaScript Projects**
+- 🔭 I’m currently working on **FullStack Projects**
 
-- 🌱 I’m currently learning **ASP.NET, JavaScript**
+- 🌱 I’m currently learning **React, Node.JS, JavaScript**
 
-- 👯 I’m looking to collaborate on **Web Projects**
+- 👯 I’m looking to collaborate on **FullStack or Mobile App Projects**
 
 - 📝 I regularly write articles on [https://medium.com/@gunesberkant96](https://medium.com/@gunesberkant96)
 
